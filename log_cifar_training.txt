@@ -1,0 +1,73 @@
+nohup: ignoring input
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+
+Training and evaluating with shallow methods(NN, KNN, SVM):
+Accuracy of the raw feature, euclidean distance and NN on the Test Set: 0.3567
+Accuracy of the raw feature, euclidean distance and KNN on the Test Set: 0.3417
+Accuracy of the raw feature, euclidean distance and SVM on the Test Set: 0.2811
+Accuracy of the raw feature, cosine distance and NN on the Test Set: 0.3567
+Accuracy of the raw feature, cosine distance and KNN on the Test Set: 0.3417
+Accuracy of the raw feature, cosine distance and SVM on the Test Set: 0.2794
+Accuracy of the edge feature, euclidean distance and NN on the Test Set: 0.254
+Accuracy of the edge feature, euclidean distance and KNN on the Test Set: 0.2348
+Accuracy of the edge feature, euclidean distance and SVM on the Test Set: 0.239
+Accuracy of the edge feature, cosine distance and NN on the Test Set: 0.254
+Accuracy of the edge feature, cosine distance and KNN on the Test Set: 0.2348
+Accuracy of the edge feature, cosine distance and SVM on the Test Set: 0.233
+
+Training and evaluating with CNN (resnet18):
+Epoch 1, Accuracy on Test Set: 92.05%
+Epoch 2, Accuracy on Test Set: 93.63%
+Epoch 3, Accuracy on Test Set: 94.12%
+Epoch 4, Accuracy on Test Set: 94.22%
+Epoch 5, Accuracy on Test Set: 94.52%
+Epoch 6, Accuracy on Test Set: 94.46%
+Epoch 7, Accuracy on Test Set: 94.46%
+Epoch 8, Accuracy on Test Set: 94.27%
+Epoch 9, Accuracy on Test Set: 94.64%
+Epoch 10, Accuracy on Test Set: 94.70%
+Epoch 11, Accuracy on Test Set: 94.67%
+Epoch 12, Accuracy on Test Set: 94.75%
+Epoch 13, Accuracy on Test Set: 94.69%
+Epoch 14, Accuracy on Test Set: 94.80%
+Epoch 15, Accuracy on Test Set: 94.79%
+Epoch 16, Accuracy on Test Set: 94.64%
+Epoch 17, Accuracy on Test Set: 94.42%
+Epoch 18, Accuracy on Test Set: 94.67%
+Epoch 19, Accuracy on Test Set: 94.76%
+Epoch 20, Accuracy on Test Set: 94.83%
+Epoch 21, Accuracy on Test Set: 94.77%
+Epoch 22, Accuracy on Test Set: 94.81%
+Epoch 23, Accuracy on Test Set: 94.72%
+Epoch 24, Accuracy on Test Set: 94.83%
+Epoch 25, Accuracy on Test Set: 94.73%
+Epoch 26, Accuracy on Test Set: 94.92%
+Epoch 27, Accuracy on Test Set: 94.74%
+Epoch 28, Accuracy on Test Set: 94.91%
+Epoch 29, Accuracy on Test Set: 94.99%
+Epoch 30, Accuracy on Test Set: 95.02%
+Epoch 31, Accuracy on Test Set: 95.16%
+Epoch 32, Accuracy on Test Set: 94.71%
+Epoch 33, Accuracy on Test Set: 95.05%
+Epoch 34, Accuracy on Test Set: 94.86%
+Epoch 35, Accuracy on Test Set: 95.08%
+Epoch 36, Accuracy on Test Set: 94.83%
+Epoch 37, Accuracy on Test Set: 94.78%
+Epoch 38, Accuracy on Test Set: 94.96%
+Epoch 39, Accuracy on Test Set: 95.01%
+Epoch 40, Accuracy on Test Set: 95.02%
+Epoch 41, Accuracy on Test Set: 94.96%
+Epoch 42, Accuracy on Test Set: 94.95%
+Epoch 43, Accuracy on Test Set: 94.95%
+Epoch 44, Accuracy on Test Set: 94.83%
+Epoch 45, Accuracy on Test Set: 95.10%
+Epoch 46, Accuracy on Test Set: 94.90%
+Epoch 47, Accuracy on Test Set: 94.91%
+Epoch 48, Accuracy on Test Set: 94.71%
+Epoch 49, Accuracy on Test Set: 94.94%
+Epoch 50, Accuracy on Test Set: 95.16%
+Finished Training
+Final Accuracy on the Test Set: 95.16%
